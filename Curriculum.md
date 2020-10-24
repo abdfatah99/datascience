@@ -3,7 +3,7 @@
 <td align="center" width="9999">
 <img src="/icon.png" align="center" width="150" alt="Project icon">
 
-# Data Science Learning Path
+# Data Science Learning Path (from datascienceid)
 
 </td>
 </tr>
